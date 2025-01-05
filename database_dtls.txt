@@ -1,0 +1,5 @@
+
+database = usr_db
+Table = usr_tbl
+user_name
+user_pass
